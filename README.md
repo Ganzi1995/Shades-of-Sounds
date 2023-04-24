@@ -19,9 +19,9 @@ As the project was made in P5js, I created a webpage that showcases the three ma
 	 &nbsp;
 	 
 <p float="left">
-<img width="250" height="250"  alt="Screenshot 2023-03-19 at 13 08 15" src="https://user-images.githubusercontent.com/116183910/234077892-e4620e54-1fab-4ed0-8020-7f5110de9b14.png"/>
-<img width="250" height="250" alt="Screenshot 2023-03-14 at 21 50 20" src="https://user-images.githubusercontent.com/116183910/234078318-99c4bb85-d74c-452e-8062-5019c4bfe4ca.png"/>
- <img width="250" height="250"  alt="Screenshot 2023-03-23 at 17 10 26" src="https://user-images.githubusercontent.com/116183910/234060656-196072f6-0868-4597-9df5-d732e05b2ff1.png"/></p>
+<img width="270" height="270"  alt="Screenshot 2023-03-19 at 13 08 15" src="https://user-images.githubusercontent.com/116183910/234077892-e4620e54-1fab-4ed0-8020-7f5110de9b14.png"/>
+<img width="270" height="270" alt="Screenshot 2023-03-14 at 21 50 20" src="https://user-images.githubusercontent.com/116183910/234078318-99c4bb85-d74c-452e-8062-5019c4bfe4ca.png"/>
+ <img width="270" height="270"  alt="Screenshot 2023-03-23 at 17 10 26" src="https://user-images.githubusercontent.com/116183910/234060656-196072f6-0868-4597-9df5-d732e05b2ff1.png"/></p>
  
 
 
