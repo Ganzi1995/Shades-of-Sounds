@@ -31,7 +31,7 @@ As the project was made in P5js, I created a webpage that showcases the three ma
   In here there are examples that demonstrate the relationship between sounds,geometric forms and movement.
   Here the link:https://editor.p5js.org/AlessiaG/collections/TRyOUhU_S
 <p align="center">
- < width="270" height="270" video src= "https://user-images.githubusercontent.com/116183910/234080187-6edc6f9b-f66d-495c-b0ba-2dc3c286f0ee.mov"</p>
+ < video width="270" height="270"  src= "https://user-images.githubusercontent.com/116183910/234080187-6edc6f9b-f66d-495c-b0ba-2dc3c286f0ee.mov"</p>
 
 
 
