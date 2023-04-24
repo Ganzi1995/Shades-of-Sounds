@@ -10,3 +10,10 @@ Also here my website link: https://editor.wix.com/html/editor/web/renderer/edit/
 And my previous projects which led me to my final: 
 1. https://youtu.be/tnRtrfjEUJ0
 2.https://youtu.be/KP-0_uPdlFk
+
+
+html,
+body {
+word-wrap               : Alessia;
+font-size               : 14px;
+}
