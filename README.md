@@ -1,19 +1,23 @@
 # Shades-of-Sounds
-Shades and Sounds is a project based on the experimentation of shapes, sounds, and movement. This journey represents the culmination of my past works where I started to learn more about geometry, math, coding, and movement. 
+Shades and Sounds is a project based on the experimentation of shapes, sounds, and movement. This journey represents the culmination of my past works where I started to learn more about geometry, math, coding, and movement.
+Here are the links:
+* https://youtu.be/tnRtrfjEUJ0
+* https://youtu.be/KP-0_uPdlFk
+
 Shades and Sounds showcases the outcome of a variety of examples combined using shapes, music, and movement via P5js, 
-mainly FFT (Fast Fourier transform), which allowed me to experiment and explore how I could communicate the sound and movement via forms. It also allowed me to integrate human movement with geometric forms to showcase how closely related humans and geometry are. The aim of this project is to give geometric forms life and showcase how art can be beautifully integrated with maths. 
-
-Inside these three folders, there are three subfolders containing different types of experiments. I created as many experiments as possible to give viewers the opportunity to fully immerse themselves in this journey.
-
-Also here my website link: https://editor.wix.com/html/editor/web/renderer/edit/4e7a021f-6764-45b8-bf34-b4ca053040d1?metaSiteId=460912f4-b985-4bed-99b4-4f2844833157
-
-And my previous projects which led me to my final: 
-1. https://youtu.be/tnRtrfjEUJ0
-2.https://youtu.be/KP-0_uPdlFk
+mainly FFT (Fast Fourier transform), which allowed me to experiment and explore how I could communicate the sound and movement via forms. It also allowed me to integrate human movement with geometric forms to showcase how closely related humans and geometry are. The aim of this project is to give geometric forms life and showcase how art can be beautifully integrated with maths. Also I wanted to integrate my website link to shocase the prcocess of this project:
+* https://editor.wix.com/html/editor/web/renderer/edit/4e7a021f-6764-45b8-bf34-b4ca053040d1?metaSiteId=460912f4-b985-4bed-99b4-4f2844833157
 
 
-html,
-body {
-word-wrap               : Alessia;
-font-size               : 14px;
-}
+As the project was made in P5js, I created a webpage that showcases the three main collections, each containing three subfolders with different types of experiments. Within these pages, I included as many experiments as possible to give viewers the opportunity to fully immerse themselves in this journey.
+
+* _FFT- Music and Shapes_  
+  In here there are examples that demonstrate the relationship between sounds and geometric forms.
+	Here the link:https://editor.p5js.org/AlessiaG/collections/5Hmh6bOx3
+<p float="left">
+<img width="300" height="300"  alt="Screenshot 2023-03-23 at 22 56 50" src="https://user-images.githubusercontent.com/116183910/234058326-187525fe-89d6-4251-a0db-cdc8942d053c.png"/>
+<img width="300" height="300" alt="Screenshot 2023-03-24 at 16 34 51" src="https://user-images.githubusercontent.com/116183910/234060501-bcf5c504-ab30-4882-adb8-66b9a41f780d.png"/>
+ <img width="300" height="300"  alt="Screenshot 2023-03-23 at 17 10 26" src="https://user-images.githubusercontent.com/116183910/234060656-196072f6-0868-4597-9df5-d732e05b2ff1.png"/></p>
+
+* _FFT- BodyMovement ,Music and Shapes_ 
+  
