@@ -28,9 +28,33 @@ As the project was made in P5js, I created a webpage that showcases the three ma
   Here the link:https://editor.p5js.org/AlessiaG/collections/TRyOUhU_S
   &nbsp;
   
-<p align="center"> <video src= "https://user-images.githubusercontent.com/116183910/234080187-6edc6f9b-f66d-495c-b0ba-2dc3c286f0ee.mov"</p>
+  <p float="left">
+<img width="270" height="270" alt="Screenshot 2023-05-25 at 11 18 28" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/b0ad49f8-c93a-433c-8518-0cc8210afc0b"/>
+<img width="270" height="270" alt="Screenshot 2023-05-25 at 11 20 43" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/b1ea6d52-bc3a-4c40-9a1a-a5004b42d341"/>
+<img width="270" height="270" alt="Screenshot 2023-05-25 at 12 04 54" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/d39b7b1d-c2fd-4fa0-975a-4bd1c606e21a">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+* _FFT - Particle System and Movement
+  In here there are examples that demonstrate the relationship between sounds,geometric forms and movement.
+  Here the link:https://editor.p5js.org/AlessiaG/collections/Wp5etmyI-
+  &nbsp;
+	
+	
+	
+ <p float="left">
+<img width="270" height="270" alt="Screenshot 2023-05-25 at 12 08 45" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/1afb8fa4-6fb4-4419-b3a5-3ef0a23062d5"/>
+<img width="270" height="270" alt="Screenshot 2023-05-25 at 13 21 28" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/fd743b6b-93f0-4e2c-b3cd-f05f71a16251"/>
 
-
+	
 
 
 
