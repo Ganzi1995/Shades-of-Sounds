@@ -12,8 +12,8 @@ mainly FFT (Fast Fourier transform), which allowed me to experiment and explore 
 As the project was made in P5js, I created a webpage that showcases the three main collections, each containing three subfolders with different types of experiments. Within these pages, I included as many experiments as possible to give viewers the opportunity to fully immerse themselves in this journey.
 
 * _FFT- Music and Shapes_  
-  In here there are examples that demonstrate the relationship between sounds and geometric forms.
-	Here the link:https://editor.p5js.org/AlessiaG/collections/5Hmh6bOx3
+Here, you will find examples that demonstrate the relationship between sounds and geometric forms.
+ <br> Here the link:https://editor.p5js.org/AlessiaG/collections/5Hmh6bOx3
 	 &nbsp;
 	 
 <p float="left">
@@ -23,42 +23,49 @@ As the project was made in P5js, I created a webpage that showcases the three ma
  
  &nbsp;
   
-* _FFT- BodyMovement ,Music and Shapes_ 
-  In here there are examples that demonstrate the relationship between sounds,geometric forms and movement.
-  Here the link:https://editor.p5js.org/AlessiaG/collections/TRyOUhU_S
-  &nbsp;
+* _FFT- BodyMovement ,Music and Shapes_  
+ Here, you will find examples that demonstrate the relationship between sounds, geometric forms, and movement.
+ <br> Here the link:https://editor.p5js.org/AlessiaG/collections/TRyOUhU_S
+          &nbsp;
   
   <p float="left">
 <img width="270" height="270" alt="Screenshot 2023-05-25 at 11 18 28" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/b0ad49f8-c93a-433c-8518-0cc8210afc0b"/>
 <img width="270" height="270" alt="Screenshot 2023-05-25 at 11 20 43" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/b1ea6d52-bc3a-4c40-9a1a-a5004b42d341"/>
-<img width="270" height="270" alt="Screenshot 2023-05-25 at 12 04 54" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/d39b7b1d-c2fd-4fa0-975a-4bd1c606e21a">
+<img width="270" height="270" alt="Screenshot 2023-05-25 at 12 04 54" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/d39b7b1d-c2fd-4fa0-975a-4bd1c606e21a"></p>
+
+ &nbsp;
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-* _FFT - Particle System and Movement
-  In here there are examples that demonstrate the relationship between sounds,geometric forms and movement.
-  Here the link:https://editor.p5js.org/AlessiaG/collections/Wp5etmyI-
+* _FFT - Particle System and Movement_
+<br> Here, you will find examples that demonstrate the relationship between the particle system and movement. It was intriguing to create a distinct scenario that deviated from the FFT's style. Connecting these two different coding worlds together was a fascinating endeavor.
+<br> Here the link:https://editor.p5js.org/AlessiaG/collections/Wp5etmyI-
   &nbsp;
-	
-	
-	
+
  <p float="left">
 <img width="270" height="270" alt="Screenshot 2023-05-25 at 12 08 45" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/1afb8fa4-6fb4-4419-b3a5-3ef0a23062d5"/>
-<img width="270" height="270" alt="Screenshot 2023-05-25 at 13 21 28" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/fd743b6b-93f0-4e2c-b3cd-f05f71a16251"/>
+<img width="270" height="270" alt="Screenshot 2023-05-25 at 13 21 28" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/fd743b6b-93f0-4e2c-b3cd-f05f71a16251"></p>
 
+ &nbsp;
+ 
+* _FFT - Oswin Tickler_ 
+  <br> Here are examples that demonstrate the relationship between colors and geometric forms. Although there is no direct connection between music and forms, it is crucial to understand that by changing colors and randomly positioning the shapes, a sense of movement and animation can still be achieved.
+  <br> Here the link:https://editor.p5js.org/AlessiaG/collections/dAUOLerax
+  &nbsp;
+  
+   <p float="left">
+ <img width="270" height="270" alt="Screenshot 2023-05-26 at 11 27 46" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/15bfc85b-8293-4f84-a092-559a248979cb">
+	<img width="270" height="270" alt="Screenshot 2023-05-26 at 11 28 53" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/c4f3b117-091b-4671-9200-72799e1af430">
+ <img width="270" height="270" alt="Screenshot 2023-05-26 at 11 30 22" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/fd6b6c53-4c21-4f15-8931-d1db7e166b6a"></p>
+ 
+  &nbsp;
+  
+  * _FFT - Facemesh_
+     <br> Here, I wanted to demonstrate the fascinating nature of working with sensors, particle systems, and movement. Despite the absence of music in the background, these experiments remain connected to the others through their shared and distinct expressions of movement and shapes.
+      <br> Here the link:https://editor.p5js.org/AlessiaG/collections/jpUfdU9Wv
+        &nbsp;
 	
-
-
-
-
+<p float="left">
+ <img width="270" height="270" alt="Screenshot 2023-05-26 at 11 39 01" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/27065d5d-9f7a-48cb-b742-9eaa68b355a1">
+<img width="270" height="270" alt="Screenshot 2023-05-26 at 11 39 49" src="https://github.com/Ganzi1995/Shades-of-Sounds/assets/116183910/cd406431-0d4d-4d50-9219-adc619d86cc6"></p>
 
 
 
