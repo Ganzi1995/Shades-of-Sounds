@@ -1,5 +1,5 @@
 # Shapes-of-Sounds
-Shades and Sounds is a project based on the experimentation of shapes, sounds, and movement. This journey represents the culmination of my past works where I started to learn more about geometry, math, coding, and movement.
+Shapes and Sounds is a project based on the experimentation of shapes, sounds, and movement. This journey represents the culmination of my past works where I started to learn more about geometry, math, coding, and movement.
 Here are the links:
 * https://youtu.be/tnRtrfjEUJ0
 * https://youtu.be/KP-0_uPdlFk
